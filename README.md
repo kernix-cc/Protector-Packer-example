@@ -1,8 +1,8 @@
 # FLAMMED PE PACKER — README
 
-🛡️ **Repository snapshot (read-only)**
+🛡️ **Open-Source Protector Builder**
 
-> **Status:** This repository contains a single obfuscated C++ source file (`main.cpp`). The file is intentionally published as an obfuscated, non-runnable snapshot for review and archival purposes only. Do **not** compile or execute this file.
+> **Status:** This repository contains an **open-source C++ Protector / Packer Builder** created by the author. The source code is publicly available by design. It can be built by users, but **build errors or runtime issues may exist**, as the project is under active development.
 
 ---
 
@@ -35,17 +35,6 @@ The author has published this file to:
 
 This README intentionally avoids providing build instructions, usage steps, or guidance on implementing protections.
 
----
-
-## 🛑 Important safety & legal notice
-
-- **Do not compile or run** `main.cpp`. It is intentionally obfuscated and may not be safe or functional.
-- The repository **does not** provide operational guidance for building or deploying protection software. Any attempt to reverse-engineer, reuse, or adapt the code is the sole responsibility of the person doing so.
-- The repository owner must ensure compliance with all applicable laws and platform policies. Uploading, distributing, or using protection software can have legal consequences depending on jurisdiction and intent.
-
-If you are not the repository owner or do not have explicit authorization to analyze or reuse this code, do not fork, compile, or execute it.
-
----
 
 ## 🗺️ Roadmap (author’s public intent)
 
